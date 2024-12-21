@@ -24,8 +24,8 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 2. [ETL using AWS Glue](pyspark_code.py)
 
 ## Data Visualization
-Data visualization was performed using AWS QuickSight.  
-[Dashboard](YouTube Data Visualization using Quicksight.pdf)
+Data visualization was performed using AWS QuickSight. 
+![Dashboard](YouTube Data Visualization using Quicksight.pdf)
 
 The following insights were derived.
 
