@@ -19,7 +19,23 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
-##Scripts Used
-1. [lambda_function.py](lambda_function.py)
-2. [pyspark_code.py](pyspark_code.py)
+## Scripts Used
+1. [ETL using Lambda function](lambda_function.py)
+2. [ETL using AWS Glue](pyspark_code.py)
+
+## Data Visualization
+Data visualization was performed using AWS QuickSight.  
+[Dashboard](YouTube Data Visualization using Quicksight.pdf)
+
+The following insights were derived.
+
+1. Among all the categories, music videos were the most liked, followed by News and Politics.
+2. The dataset lacked clear information about the most-watched channels, but some notable ones included SpaceX and XXXTentacion.
+3.   Viewers frequently rewatched music videos.
+4.  The majority of the views originated from Great Britain (UK), surpassing those from the USA and California.
+
+## Credits
+- This project is based on a tutorial by [Darshil Parmar]([Link to the tutorial](https://github.com/darshilparmar/dataengineering-youtube-analysis-project)).
+
+
 
