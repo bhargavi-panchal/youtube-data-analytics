@@ -20,4 +20,6 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ##Scripts Used
-1. [lambda_function]
+1. [lambda_function.py][lambda_function.py]
+2. [pyspark_code.py][pyspark_code.py]
+
